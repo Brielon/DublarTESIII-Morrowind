@@ -1,2 +1,3 @@
 EM DESENVOLVIMENTO AINDA NAO ESTA FUNCIONAL
 #Projeto autoral ...pix caso interce de ajuda hehe Celular +5545998582737, esse e tambem meu celular caso voce for um programador em busca de um companheiro..."vamos fazer programa juntos",chama no Zap
+Ta legal, acredito que levei para o lado pessoal oque começou como uma brincadeira, estou obstinado em dublar coisas, a ideia a princípio era simplesmente dublar morrowind via IA, mas acredito que o potencial do que estou desenvolvendo ultrapasse isso acho que partirei para algo que tenhamos o potencial de dublar oque quisermos então criarei um novo repositório com esse intuito, "Duble Você mesmo"
